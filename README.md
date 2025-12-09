@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Full Stack Developer exploring React.js & Laravel. Passionate about building scalable, efficient web & mobile applications. and im learning next js with prisma for now
+Full Stack Engineer with a strong foundation in React/Next.js and Laravel. I focus on architecting and developing complex, scalable systems (SaaS Marketplace, CRM RH) using TypeScript and Prisma for data rigor. Actively pursuing advanced studies in Software Architecture and Ingénierie des Systèmes.
 
 
 ## 🌐 Socials:
