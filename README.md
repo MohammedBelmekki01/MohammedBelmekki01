@@ -1,5 +1,9 @@
 # 💫 About Me:
 Full Stack Engineer with a strong foundation in React/Next.js and Laravel. I focus on architecting and developing complex, scalable systems (SaaS Marketplace, CRM RH) using TypeScript and Prisma for data rigor. Actively pursuing advanced studies in Software Architecture and Ingénierie des Systèmes.
+Contact : belmekki.meh@gmail.com
+Cnam(2025):mohammed.belmekki.auditeur@lecnam.net
+
+
 
 
 ## 🌐 Socials:
